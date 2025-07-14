@@ -20,10 +20,10 @@ https://github.com/purescript-halogen/purescript-halogen-template
 #+end_example
 
 ** places to change
-file:~/Programming/PureScript/purescript-project-template/spago.dhall::1
+file:./spago.dhall::1
 
 [[file:dev/index.html::<title>]]
 
 [[file:spago.dhall::, dependencies =]]
 
-file:~/Programming/PureScript/purescript-project-template/src/
+file:./src/
