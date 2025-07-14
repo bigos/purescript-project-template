@@ -32,3 +32,5 @@ file:./src/
 https://github.com/passy/awesome-purescript
 
 https://github.com/passy/awesome-purescript#learning-resources
+
+https://pursuit.purescript.org/
