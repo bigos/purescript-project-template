@@ -2,7 +2,9 @@ module Main where
 
 import Prelude
 
+import Effect (Effect)
 import Effect.Console (log)
 
 main :: Effect Unit
-main = log "Hello, Everyone!"
+main = do
+  log "You should add some tests."
