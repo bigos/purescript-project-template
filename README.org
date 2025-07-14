@@ -1,1 +1,13 @@
 * PureScript project template
+
+** quick start
+#+begin_example
+git clone git@github.com:bigos/purescript-project-template.git my-new-project
+cd my-new-project
+npm install
+npm run build
+npm run serve
+#+end_example
+
+** inspired by
+https://github.com/purescript-halogen/purescript-halogen-template
